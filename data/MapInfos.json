@@ -8,7 +8,7 @@ null,
 {"id":6,"expanded":true,"name":"Purgatoire 05","order":8,"parentId":11,"scrollX":655.2,"scrollY":359.6},
 {"id":7,"expanded":true,"name":"Purgatoire 06","order":9,"parentId":11,"scrollX":784.8,"scrollY":359.6},
 {"id":8,"expanded":false,"name":"Citée neutre - Entrée","order":10,"parentId":0,"scrollX":811,"scrollY":457.5},
-{"id":9,"expanded":true,"name":"Citée neutre - Novice Town","order":11,"parentId":8,"scrollX":1101,"scrollY":784.5},
+{"id":9,"expanded":true,"name":"Citée neutre - Novice Town","order":11,"parentId":8,"scrollX":1093,"scrollY":1016.5},
 {"id":10,"expanded":true,"name":"Tour de tests","order":12,"parentId":9,"scrollX":811,"scrollY":940.5},
 {"id":11,"expanded":true,"name":"Purgatoire","order":3,"parentId":0,"scrollX":655.2,"scrollY":359.6},
 {"id":12,"expanded":false,"name":"Start","order":1,"parentId":0,"scrollX":0,"scrollY":0}
