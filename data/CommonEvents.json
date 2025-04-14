@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":122,"indent":0,"parameters":[6,6,0,4,"\"lE ChOisiSSeuR\""]},{"code":355,"indent":0,"parameters":["if (!window.randomizeCase) {"]},{"code":655,"indent":0,"parameters":["    window.randomizeCase = function(input) {"]},{"code":655,"indent":0,"parameters":["        return input.split('').map(char => {"]},{"code":655,"indent":0,"parameters":["            return Math.random() < 0.5 ? char.toLowerCase() : char.toUpperCase();"]},{"code":655,"indent":0,"parameters":["        }).join('');"]},{"code":655,"indent":0,"parameters":["    }"]},{"code":655,"indent":0,"parameters":["}"]},{"code":355,"indent":0,"parameters":["$gameVariables.setValue(6, randomizeCase(\"LE CHOISISSEUR\"));"]},{"code":0,"indent":0,"parameters":[]}],"name":"Randomizer le choisisseur","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
